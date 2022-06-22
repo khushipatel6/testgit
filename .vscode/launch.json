@@ -3,13 +3,13 @@
   "configurations": [
     {
       "name": "C/C++ Runner: Debug Session",
-      "type": "lldb",
+      "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": true,
       "externalConsole": false,
-      "cwd": "/Users/khushipatel/Documents/testgit",
-      "program": "/Users/khushipatel/Documents/testgit/build/Debug/outDebug",
+      "cwd": "/Users/synashivi/Documents/testgit",
+      "program": "/Users/synashivi/Documents/testgit/build/Debug/outDebug",
       "MIMode": "gdb"
     }
   ]
