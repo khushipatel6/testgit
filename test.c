@@ -5,4 +5,5 @@ int main(){
     printf("this better work syna\n");
     printf("it works!!");
     scanf("how are you feeling? %s", &feeling);
+    printf("fine thx");
 }
